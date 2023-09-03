@@ -1,0 +1,30 @@
+---
+title: "Welcome to My Virtual Sandbox!"
+tags: []
+output: 
+ html_document:
+   toc: false
+   toc_float: false
+   toc_depth: 2
+   highlight: pygments
+---
+
+Hi Ladies and Gentlement,
+
+
+I AM TINGWEI ADECK.
+
+
+This is my personal site where I share a little bit about me and some things I am passionate about. The site will host some information about me and a lot about my data science journey.
+
+
+CLICK on the [`HOME icon`](about.html) for a quick biography OR simply click the [`CV icon`](cv.html) if visiting the site on a professional capacity.
+
+```{r}
+first_program <- readline("Hello World")
+second_program <- readline("Take a first step as seen above because my journey did not start with Hello World")
+```
+
+
+
+

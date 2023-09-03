@@ -1,0 +1,38 @@
+.navbar {
+    background-color: #0b0808;
+  }
+
+body {
+    font-family: 'Helvetica'; /*"Helvetica", Sans-Serif;*/
+    font-size: 23px;
+    background-color: rgb(202, 201, 201);
+}
+
+.flex-wrapper {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  
+.footer {
+    margin-top: auto;
+  }
+
+.footer-col .social-links a{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: rgba(255,255,255,0.2);
+    margin:0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #ffffff;
+    transition: all 0.5s ease;
+  }
+
+.footer-col .social-links a:hover{
+    color: #24262b;
+    background-color: #ffffff;
+  }

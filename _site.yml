@@ -1,0 +1,44 @@
+navbar:
+  type: default
+  left:
+    - icon: fa-home fa-lg
+      href: about.html
+    - text: "CV"
+      icon: fa-file-pdf-o
+      href: cv.html
+    - text: "Dev"
+      icon: fa-terminal
+      href: dev.html
+    - text: "News"
+      icon: fa-newspaper
+      menu:
+        - text: "normfluodbf"
+          menu:
+            - text: "Version 1.4.3"
+        - text: "Blog"
+          icon: fa-rss
+          menu:
+            - text: "Logistic Regression"
+    - text: "Hobbies"
+      icon: fa-person-hiking
+      href: hobbies.html
+
+  right:
+    - icon: fa-github
+      href: https://github.com/AlphaPrime7
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/tingwei-adeck-52b963164/
+    - icon: fa-envelope
+      href: mailto:tadeck1@buffs.wtamu.edu
+    - icon: fa-question
+      href: questions.html
+
+output:
+  html_document:
+    highlight: textmate
+    header: true
+    header_float: true
+    header_depth: 4
+    includes:
+      after_body: footer.html
+    css: styles.css

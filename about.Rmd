@@ -1,0 +1,12 @@
+---
+title: "About me"
+tags: []
+output: 
+ html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 2
+    highlight: pygments
+---
+
+## My name is Tingwei Adeck and I am a data nerd. 
