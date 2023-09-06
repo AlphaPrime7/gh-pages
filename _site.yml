@@ -12,13 +12,17 @@ navbar:
     - text: "News"
       icon: fa-newspaper
       menu:
-        - text: "normfluodbf"
-          menu:
-            - text: "Version 1.4.3"
-        - text: "Blog"
-          icon: fa-rss
-          menu:
-            - text: "Logistic Regression"
+        - text: "normfluodbf Version 1.4.3"
+          href: http://cran.csail.mit.edu/web/packages/normfluodbf/index.html
+        - text: "normfluodbf Version 1.4.4"
+          href: update.html
+    - text: 'Blog'
+      icon: fa-rss
+      menu:
+        - text: "Logistic Regression"
+          href: BinomReg.html
+        - text: "APIs in R"
+          href: apis.html
     - text: "Hobbies"
       icon: fa-person-hiking
       href: hobbies.html

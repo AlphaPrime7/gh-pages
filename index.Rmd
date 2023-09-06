@@ -24,6 +24,3 @@ first_program <- readline("Hello World")
 second_program <- readline("Take a first step as seen above because my journey did not start with Hello World")
 ```
 
-
-
-

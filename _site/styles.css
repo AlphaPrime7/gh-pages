@@ -3,9 +3,10 @@
   }
 
 body {
-    font-family: 'Helvetica'; /*"Helvetica", Sans-Serif;*/
+    font-family: 'courier'; /*"Helvetica", Sans-Serif;*/
     font-size: 23px;
     background-color: rgb(202, 201, 201);
+    
 }
 
 .container{

@@ -1,0 +1,9 @@
+---
+title: "update"
+output: html_document
+date: "2023-09-06"
+---
+
+## normfluodbf version 1.4.4
+
+      Update is coming soon. The update should include cleaning dat files obtained from the microplate reader.
