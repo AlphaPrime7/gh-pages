@@ -3,10 +3,15 @@
   }
 
 body {
-    font-family: 'courier'; /*"Helvetica", Sans-Serif;*/
+    font-family: 'Open Sans'; /*"Helvetica", Sans-Serif;*/
     font-size: 23px;
     background-color: rgb(202, 201, 201);
     
+}
+
+a:hover {
+  color: #FFB300 !important;
+  text-decoration: none;
 }
 
 .container{
